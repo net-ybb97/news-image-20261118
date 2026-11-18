@@ -28,11 +28,14 @@ the day's news changes.
    drone operation, while Russia struck bridges in Kyiv and Moscow
    opened a terrorism probe. *Still developing.*
    (The Sunday Guardian; DW; South China Morning Post)
-2. **Iran drones hit US radar, Bahrain** — Iran's IRGC claimed a
-   drone strike on a US military radar system at Bahrain's Sheikh Isa
-   Air Base; Kuwait reported drone interceptions and Bahrain later
-   announced an all-clear. *Still developing.*
-   (The Indian Express; Jagran Josh; AppiSToS)
+2. **Iran hits Bahrain radar; US strikes back** — Iran's IRGC claimed
+   a drone strike on a US military radar system at Bahrain's Sheikh
+   Isa Air Base; US fighter jets hit an IRGC missile launch site on
+   Iran's Qeshm Island in retaliation. Iran's army then said its
+   drones targeted US Patriot systems at Kuwait's Ali Al-Salem Air
+   Base, and the GCC condemned the attacks and called for UN Security
+   Council action. *Still developing.*
+   (Gulf News; Dawn; Reuters via GMA)
 3. **Russian plane crash in Siberia kills 19** — a Russian military
    transport plane crashed in Siberia, killing 19 people.
    (NDTV; Times Now)

@@ -34,7 +34,7 @@ COLS, ROWS = 2, 3
 # (panel file, caption) -- captions name what happened, 3-8 words each.
 STORIES = [
     ("bridge.png",  "Ukraine strikes Crimean Bridge"),
-    ("radar.png",   "Iran drones hit US radar, Bahrain"),
+    ("radar.png",   "Iran hits Bahrain radar; US strikes back"),
     ("crash.png",   "Russian plane crash in Siberia kills 19"),
     ("quad.png",    "Quad leaders gather in Manila"),
     ("nvidia.png",  "Nvidia beats estimates, bars Huang return"),
